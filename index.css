@@ -36,9 +36,8 @@
 
     --background: #fff9e6;  /* soft cream/yellow */
     --accent: #ff6b35;   /* warm orange accent */
-    --text-color: #2d2d2d;  /* dark text */
-    --text-color-1: #e5e5e6da;
-
+    --text-color: #1a1a2e;  /* much darker, easier to read */
+    --text-color-1: #2d2d3d; /* secondary text color */
 
     --container-max-width: 1180px;
     --container-normal-width: 800px;

@@ -34,9 +34,9 @@
     --line-height-normal: 1.7;
     --line-height-small: 1.2;
 
-    --black: #000;
-    --pink: #ff3258;
-    --white: #f0e9f2;
+    --black: #fff9e6;  /* soft cream/yellow */
+    --pink: #ff6b35;   /* warm orange accent */
+    --white: #2d2d2d;  /* dark text */
     --white-1: #e5e5e6da;
 
 

@@ -10,6 +10,9 @@ body {
   line-height: 1.6;
   color: #1a1a2e;
   background: #e8f4f8;
+  padding: 0 5%; /* adds 5% padding on left and right */
+  max-width: 1400px; /* prevents it from getting too wide on huge screens */
+  margin: 0 auto; /* centers the whole site */
 }
 
 /* Navigation */
@@ -24,7 +27,7 @@ nav {
   margin: 0 auto;
   padding: 0 2rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; /* pushes logo left, links right */
   align-items: center;
 }
 
@@ -37,8 +40,10 @@ nav {
 
 .nav-links {
   display: flex;
-  list-style: none;
-  gap: 2rem;
+  list-style: none; /* removes bullets */
+  gap: 2rem; /* space between links */
+  margin: 0; /* removes default margin */
+  padding: 0; /* removes default padding */
 }
 
 .nav-links a {

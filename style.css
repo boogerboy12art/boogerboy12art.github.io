@@ -147,6 +147,9 @@ footer {
   border: 2px solid #b8dce8;
   border-radius: 8px;
   background: white; /* helps pixel art visibility */
+  image-rendering: pixelated; /* Changes from default of "smooth" upscaling */
+  image-rendering: -moz-crisp-edges; /* Firefox fallback */
+  image-rendering: crisp-edges; /* Other browsers */
 }
 
 .gallery-item p {

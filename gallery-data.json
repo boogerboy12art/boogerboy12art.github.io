@@ -119,6 +119,94 @@
       "resolution": "36x41",
       "description": "I found a cute reference of a dachsund stgagndong on top of a dachsund statue, so I tried to my best to make it in a super low-res :)",
       "image": "images/gallery/2024-05-31-dachsund.png"
+    },
+        {
+      "id": "2024-06-15-baldursgate3",
+      "title": "1-bit Baldur's Gate 3",
+      "date": "2024-06-15",
+      "resolution": "74x79",
+      "description": "I was late to Baldur's Gate 3, but I put in like 100 hours in the first few weeks. I wanted to make some art inspired by it, and I was learning both 1-bit art and portraits, so I thought why not combine them?",
+      "image": "images/gallery/2024-06-15-baldursgate3.png"
+    },
+        {
+      "id": "2024-07-02-worm",
+      "title": "Earthworm",
+      "date": "2024-07-02",
+      "resolution": "32x32",
+      "description": "This was done for a #pixeldailies challenge and I remember being so impressed by how the specular highlights looked when it was completed.",
+      "image": "images/gallery/2024-07-02-worm.png"
+    },
+        {
+      "id": "2024-07-04-severance",
+      "title": "Severance imagined as a GBA game",
+      "date": "2024-07-04",
+      "resolution": "115x105",
+      "description": "I was ADDICTED to Severance when season 2 came out. I had to make some art inspired by it, and this was probably my most ambitious project up to this point. I remember spending so long on the Lumon logo, the curves were just so hard to get right.",
+      "image": "images/gallery/2024-07-04-severance.png"
+    },
+        {
+      "id": "2024-07-06-squirtle",
+      "title": "Squirtle",
+      "date": "2024-07-0",
+      "resolution": "134x134",
+      "description": "I think I did the crying squirtle first for a #pixeldailies challenge, and made the rest of this on a long train ride the weekend after.",
+      "image": "images/gallery/2024-07-06-squirtle.png"
+    },
+        {
+      "id": "2024-07-08-kirby",
+      "title": "Kirby",
+      "date": "2024-07-08",
+      "resolution": "216x216",
+      "description": "I made this piece a few different times, and unfortunately I overwrote it each time instead of exporting it as a new piece. I left is in this resolution, which was an experiment to see how Instagram worked, since I had just made one.",
+      "image": "images/gallery/2024-07-08-kirby.png"
+    },
+        {
+      "id": "2024-07-14-emotion",
+      "title": "Dragonite eating a hamburger",
+      "date": "2024-07-14",
+      "resolution": "32x32",
+      "description": "I used one of the default palettes on Aseprite for this #pixeldailies challenge (the theme was emotion).",
+      "image": "images/gallery/2024-07-14-emotion.png"
+    },
+        {
+      "id": "2024-07-20-veggiestamps",
+      "title": "Vegetable Garden Stamps",
+      "date": "2024-11-01",
+      "resolution": "270x270",
+      "description": "My girlfriend got into gardening during the summer of 2024 so I wanted to make her some cute veggie stamps!",
+      "image": "images/gallery/2024-07-20-veggiestamps.png"
+    },
+        {
+      "id": "2024-07-28-scintillating",
+      "title": "Obsidian",
+      "date": "2024-07-28",
+      "resolution": "32x32",
+      "description": "The #pixeldailies theme was \"scintillating\" which I had no idea what it meant until I looked it up (sparkling or shining brightly). This was a great introduction to how light is reflected on/off of/inside of gems and other translucent materials. So much fun!",
+      "image": "images/gallery/2024-07-28-scintillating.png"
+    },
+        {
+      "id": "2024-07-28-severance",
+      "title": "1-bit Severance Portraits",
+      "date": "2024-07-28",
+      "resolution": "76x76",
+      "description": "Taking inspiration from my earlier 1-bit portraits from Baldur's Gate 3, I wanted to attempt some more 1-bit portraits of the main characters from Severance.",
+      "image": "images/gallery/2024-07-28-severance.png"
+    },
+        {
+      "id": "2024-07-29-bulbasaur",
+      "title": "Bulbasaur",
+      "date": "2024-07-29",
+      "resolution": "110x92",
+      "description": "I think this was the first piece I had done with a deliberately created palette. I wanted to keep the color count low, and it was tough getting the red to look right. It still feels off to me haha.",
+      "image": "images/gallery/2024-07-29-bulbasaur.png"
+    },
+        {
+      "id": "2024-07-30-tomato",
+      "title": "Simple Tomato",
+      "date": "2024-07-30",
+      "resolution": "36x41",
+      "description": "This was the first tomato that would eventually become my garden vegetable stamps, done for my girlfriend in November 2024.",
+      "image": "images/gallery/2024-07-30-tomato.png"
     }
   ]
 }

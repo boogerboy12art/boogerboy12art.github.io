@@ -17,6 +17,9 @@ body {
   padding: 0 5%; /* adds 5% padding on left and right */
   max-width: 1400px; /* prevents it from getting too wide on huge screens */
   margin: 0 auto; /* centers the whole site */
+  min-height: 100vh; /* full viewport height */
+  display: flex; 
+  flex-direction: column; /* stacks nav, main, and footer vertically */
 }
 
 /* Navigation */
@@ -101,7 +104,7 @@ footer {
   text-align: center;
   border-top: 2px solid #b8dce8;
   border-radius: 15px 15px 0 0; /* rounds top corners */
-  margin-top: 4rem;
+  margin-top: auto;
 }
 
 .social-links {

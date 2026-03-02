@@ -35,7 +35,7 @@ function openModal(piece) {
   document.getElementById('modal-img').src = piece.image;
   document.getElementById('modal-title').textContent = piece.title;
   document.getElementById('modal-resolution').textContent = `Resolution: ${piece.resolution}`;
-  document.getElementById('modal-desc').textContent = piece.description;
+  document.getElementById('modal-desc').innerHTML = piece.description;
 
 
 /*

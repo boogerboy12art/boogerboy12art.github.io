@@ -71,6 +71,52 @@
       "resolution": "32x32",
       "description": "I was SO proud of this one, I changed all my profile pictures to this one and neverr went back!",
       "image": "images/gallery/2024-01-22-sunflower.png"
-    }
-  ]
+    },
+        {
+      "id": "2024-02-21-charmander",
+      "title": "Charmander",
+      "date": "2024-02-21",
+      "resolution": "120x120",
+      "description": "This was one one of my first big projects. There was a #PixelDailies theme that I created one Charmander for, and the rest followed!",
+      "image": "images/gallery/2024-02-21-charmander.png"
+    },
+        {
+      "id": "2024-04-26-potionsclass",
+      "title": "Potion's Class",
+      "date": "2024-04-26",
+      "resolution": "172x140",
+      "description": "Another big project! I had to look up a few tutorials for this. Small sprites, and isometric art. I think I had just finished one of the first few Harry Potter books, which inspired this.",
+      "image": "images/gallery/2024-04-26-potionsclass.png"
+    },
+        {
+      "id": "2024-04-28-tongue",
+      "title": "Tongue (Puss in Boots)",
+      "date": "2024-04-28",
+      "resolution": "34x40",
+      "description": "Other than actual projects, this was one of the first pieces where I started using a canvas bigger than 32x32. The #PixelDailies theme was tongue, so I grabbed a reference from Puss in Boots sticking out his lil cat tongue :)",
+      "image": "images/gallery/2024-04-28-tongue.png"
+    },
+            {
+      "id": "2024-05-11-gengar",
+      "title": "Gengar",
+      "date": "2024-05-11-gengar",
+      "resolution": "170x131",
+      "description": "I saw an amazing Gengar expression sheet (by <a href='https://www.instagram.com/3buddy/' target='_blank'>3buddy</a>), and had to try to recreate it in pixel art.",
+      "image": "images/gallery/2024-05-11-gengar.png"
+        {
+      "id": "2024-05-11-tongue",
+      "title": "Silly Dog Tongue",
+      "date": "2024-05-11",
+      "resolution": "46x50",
+      "description": "My girlfriend's dog has a habit of sticking her tongue out randomly, so I decided to turn it into pixel art!",
+      "image": "images/gallery/2024-05-11-tongue.png"
+    },
+            {
+      "id": "2024-05-31-dachsund",
+      "title": "Dachsusnd on a Dachsund Statue",
+      "date": "2024-05-31",
+      "resolution": "36x41",
+      "description": "I found a cute reference of a dachsund stgagndong on top of a dachsund statue, so I tried to my best to make it in a super low-res :)",
+      "image": "images/gallery/2024-05-31-dachsund.png"
+    },
 }

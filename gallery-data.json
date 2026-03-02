@@ -12,7 +12,7 @@
       "id": "2023-11-29-treasure",
       "title": "Buried Treasure",
       "date": "2023-11-29",
-      "resolution": "64x64",
+      "resolution": "32x32",
       "description": "Buried treasure, done for a daily theme.",
       "image": "images/gallery/2023-11-29-treasure.png"
     },
@@ -20,7 +20,7 @@
       "id": "2023-11-30-aurora",
       "title": "Aurora Borealis",
       "date": "2023-11-30",
-      "resolution": "64x64",
+      "resolution": "32x32",
       "description": "An aurora done for a daily theme. I think this was my first time using the blur feature.",
       "image": "images/gallery/2023-11-30-aurora.png"
     },
@@ -28,7 +28,7 @@
       "id": "2023-12-02-samurai",
       "title": "Tiny Samurai",
       "date": "2023-12-02",
-      "resolution": "64x64",
+      "resolution": "32x32",
       "description": "I pretty much copied this exactly from Brandom James Greer, though at the time I had no idea who he was, or that he'd turn into one of my biggest pixel art inspirations.",
       "image": "images/gallery/2023-12-02-samurai.png"
     },
@@ -36,7 +36,7 @@
       "id": "2023-12-13-christmastree",
       "title": "Christmas Tree",
       "date": "2023-12-13",
-      "resolution": "64x64",
+      "resolution": "32x32",
       "description": "This was done for a daily challenge for the holidays.",
       "image": "images/gallery/2023-12-13-christmastree.png"
     },
@@ -44,9 +44,33 @@
       "id": "2023-12-14-jinglebells",
       "title": "Jingle Bells",
       "date": "2023-12-14",
-      "resolution": "64x64",
+      "resolution": "32x32",
       "description": "Another holiday challenge. I remember being blown away by how dimensional this looked and how cool the specular highlight looked.",
       "image": "images/gallery/2023-12-14-jinglebells.png"
+    }
+    {
+      "id": "2024-01-09-houseplants",
+      "title": "Houseplants",
+      "date": "2024-01-09",
+      "resolution": "32x32",
+      "description": "A cute little cactus for a daily theme! I remember that I used a video game screenshot for the reference, but can't remember which one :(",
+      "image": "images/gallery/2024-01-09-houseplants.png"
+    },
+    {
+      "id": "2024-01-15-peacock",
+      "title": "Peacock",
+      "date": "2024-01-15",
+      "resolution": "32x32",
+      "description": "I remember being really happy with how the peacock turned out, but so confused as to what to do for a background haha.",
+      "image": "images/gallery/2024-01-15-peacock.png"
+    },
+    {
+      "id": "2024-01-22-sunflower",
+      "title": "Sunflower",
+      "date": "2024-01-22",
+      "resolution": "32x32",
+      "description": "I was SO proud of this one, I changed all my profile pictures to this one and neverr went back!",
+      "image": "images/gallery/2024-01-22-sunflower.png"
     }
   ]
 }

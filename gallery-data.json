@@ -5,7 +5,6 @@
       "title": "Gloom",
       "date": "2023-11-25",
       "resolution": "32x32",
-      "palette": ["#ff0000", "#00ff00", "#0000ff"],
       "description": "One of my first ever pieces! Done for a daily theme.",
       "image": "images/gallery/2023-11-25-gloom.png"
     },
@@ -14,7 +13,6 @@
       "title": "Buried Treasure",
       "date": "2023-11-29",
       "resolution": "64x64",
-      "palette": ["#ff6b35", "#1a1a2e", "#e8f4f8"],
       "description": "Buried treasure, done for a daily theme.",
       "image": "images/gallery/2023-11-29-treasure.png"
     },
@@ -23,7 +21,6 @@
       "title": "Aurora Borealis",
       "date": "2023-11-30",
       "resolution": "64x64",
-      "palette": ["#ff6b35", "#1a1a2e", "#e8f4f8"],
       "description": "An aurora done for a daily theme. I think this was my first time using the blur feature.",
       "image": "images/gallery/2023-11-30-aurora.png"
     },
@@ -32,7 +29,6 @@
       "title": "Tiny Samurai",
       "date": "2023-12-02",
       "resolution": "64x64",
-      "palette": ["#ff6b35", "#1a1a2e", "#e8f4f8"],
       "description": "I pretty much copied this exactly from Brandom James Greer, though at the time I had no idea who he was, or that he'd turn into one of my biggest pixel art inspirations.",
       "image": "images/gallery/2023-12-02-samurai.png"
     },
@@ -41,7 +37,6 @@
       "title": "Christmas Tree",
       "date": "2023-12-13",
       "resolution": "64x64",
-      "palette": ["#ff6b35", "#1a1a2e", "#e8f4f8"],
       "description": "This was done for a daily challenge for the holidays.",
       "image": "images/gallery/2023-12-13-christmastree.png"
     },
@@ -50,7 +45,6 @@
       "title": "Jingle Bells",
       "date": "2023-12-14",
       "resolution": "64x64",
-      "palette": ["#ff6b35", "#1a1a2e", "#e8f4f8"],
       "description": "Another holiday challenge. I remember being blown away by how dimensional this looked and how cool the specular highlight looked.",
       "image": "images/gallery/2023-12-14-jinglebells.png"
     }

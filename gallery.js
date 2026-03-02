@@ -37,6 +37,7 @@ function openModal(piece) {
   document.getElementById('modal-resolution').textContent = `Resolution: ${piece.resolution}`;
   document.getElementById('modal-desc').textContent = piece.description;
   
+/*
   // Generate color swatches
   const colorsDiv = document.getElementById('modal-colors');
   colorsDiv.innerHTML = '';
@@ -50,6 +51,7 @@ function openModal(piece) {
   
   modal.style.display = 'block';
 }
+*/
 
 // Close modal
 closeBtn.onclick = () => modal.style.display = 'none';

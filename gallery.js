@@ -36,7 +36,8 @@ function openModal(piece) {
   document.getElementById('modal-title').textContent = piece.title;
   document.getElementById('modal-resolution').textContent = `Resolution: ${piece.resolution}`;
   document.getElementById('modal-desc').textContent = piece.description;
-  
+} // remove this bracket if you uncomment below code
+
 /*
   // Generate color swatches
   const colorsDiv = document.getElementById('modal-colors');

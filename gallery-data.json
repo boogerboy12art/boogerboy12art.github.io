@@ -120,7 +120,7 @@
       "description": "I found a cute reference of a dachsund stgagndong on top of a dachsund statue, so I tried to my best to make it in a super low-res :)",
       "image": "images/gallery/2024-05-31-dachsund.png"
     },
-        {
+    {
       "id": "2024-06-15-baldursgate3",
       "title": "1-bit Baldur's Gate 3",
       "date": "2024-06-15",
@@ -128,7 +128,7 @@
       "description": "I was late to Baldur's Gate 3, but I put in like 100 hours in the first few weeks. I wanted to make some art inspired by it, and I was learning both 1-bit art and portraits, so I thought why not combine them?",
       "image": "images/gallery/2024-06-15-baldursgate3.png"
     },
-        {
+    {
       "id": "2024-07-02-worm",
       "title": "Earthworm",
       "date": "2024-07-02",
@@ -136,7 +136,7 @@
       "description": "This was done for a #pixeldailies challenge and I remember being so impressed by how the specular highlights looked when it was completed.",
       "image": "images/gallery/2024-07-02-worm.png"
     },
-        {
+    {
       "id": "2024-07-04-severance",
       "title": "Severance imagined as a GBA game",
       "date": "2024-07-04",
@@ -144,7 +144,7 @@
       "description": "I was ADDICTED to Severance when season 2 came out. I had to make some art inspired by it, and this was probably my most ambitious project up to this point. I remember spending so long on the Lumon logo, the curves were just so hard to get right.",
       "image": "images/gallery/2024-07-04-severance.png"
     },
-        {
+    {
       "id": "2024-07-06-squirtle",
       "title": "Squirtle",
       "date": "2024-07-0",
@@ -152,7 +152,7 @@
       "description": "I think I did the crying squirtle first for a #pixeldailies challenge, and made the rest of this on a long train ride the weekend after.",
       "image": "images/gallery/2024-07-06-squirtle.png"
     },
-        {
+    {
       "id": "2024-07-08-kirby",
       "title": "Kirby",
       "date": "2024-07-08",
@@ -160,7 +160,7 @@
       "description": "I made this piece a few different times, and unfortunately I overwrote it each time instead of exporting it as a new piece. I left is in this resolution, which was an experiment to see how Instagram worked, since I had just made one.",
       "image": "images/gallery/2024-07-08-kirby.png"
     },
-        {
+    {
       "id": "2024-07-14-emotion",
       "title": "Dragonite eating a hamburger",
       "date": "2024-07-14",
@@ -168,7 +168,7 @@
       "description": "I used one of the default palettes on Aseprite for this #pixeldailies challenge (the theme was emotion).",
       "image": "images/gallery/2024-07-14-emotion.png"
     },
-        {
+    {
       "id": "2024-07-20-veggiestamps",
       "title": "Vegetable Garden Stamps",
       "date": "2024-11-01",
@@ -176,7 +176,7 @@
       "description": "My girlfriend got into gardening during the summer of 2024 so I wanted to make her some cute veggie stamps!",
       "image": "images/gallery/2024-07-20-veggiestamps.png"
     },
-        {
+    {
       "id": "2024-07-28-scintillating",
       "title": "Obsidian",
       "date": "2024-07-28",
@@ -184,7 +184,7 @@
       "description": "The #pixeldailies theme was \"scintillating\" which I had no idea what it meant until I looked it up (sparkling or shining brightly). This was a great introduction to how light is reflected on/off of/inside of gems and other translucent materials. So much fun!",
       "image": "images/gallery/2024-07-28-scintillating.png"
     },
-        {
+    {
       "id": "2024-07-28-severance",
       "title": "1-bit Severance Portraits",
       "date": "2024-07-28",
@@ -192,7 +192,7 @@
       "description": "Taking inspiration from my earlier 1-bit portraits from Baldur's Gate 3, I wanted to attempt some more 1-bit portraits of the main characters from Severance.",
       "image": "images/gallery/2024-07-28-severance.png"
     },
-        {
+    {
       "id": "2024-07-29-bulbasaur",
       "title": "Bulbasaur",
       "date": "2024-07-29",
@@ -207,6 +207,150 @@
       "resolution": "36x41",
       "description": "This was the first tomato that would eventually become my garden vegetable stamps, done for my girlfriend in November 2024.",
       "image": "images/gallery/2024-07-30-tomato.png"
+    },
+    {
+      "id": "2024-08-01-capybara",
+      "title": "1-bit Capybara",
+      "date": "2024-08-01",
+      "resolution": "32x32",
+      "description": "For August 2024, I challenged myself to do the #PixelDailies challenge in 1-bit!",
+      "image": "images/gallery/2024-08-01-capybara.png"
+    },
+    {
+      "id": "2024-08-13-wabisabi",
+      "title": "1-bit Wabi-sabi",
+      "date": "2024-08-13",
+      "resolution": "32x32",
+      "description": "Wabi-sabi is a Japanese aesthetic philosphy which centers on the acceptance of transience and imperfection (per Wikipedia).",
+      "image": "images/gallery/2024-08-13-wabisabi.png"
+    },
+    {
+      "id": "2024-08-28-actionpose",
+      "title": "1-bit Batman",
+      "date": "2024-08-28",
+      "resolution": "32x32",
+      "description": "",
+      "image": "images/gallery/2024-08-28-actionpose.png"
+    },
+    {
+      "id": "2024-09-08-teakettle",
+      "title": "2-bit Tea Kettle",
+      "date": "2024-09-08",
+      "resolution": "32x32",
+      "description": "For September 2024, I challenged myself to use the same 2-bit palette for every piece.",
+      "image": "images/gallery/2024-09-08-teakettle.png"
+    },
+    {
+      "id": "2024-09-13-comicbook",
+      "title": "2-bit Guts",
+      "date": "2024-09-13",
+      "resolution": "32x32",
+      "description": "Side profile of Guts from Berserk.",
+      "image": "images/gallery/2024-09-13-comicbook.png"
+    },
+    {
+      "id": "cha2024-09-15-peachnge",
+      "title": "2-bit Princess Peach",
+      "date": "2024-09-15",
+      "resolution": "32x32",
+      "description": "The Princess Peach challenge was HUGE around this time, so I wanted to give it a go with the 2-bit palette I was committed to using for September.",
+      "image": "images/gallery/2024-09-15-peach.png"
+    },
+    {
+      "id": "2024-09-24-electricity",
+      "title": "2-bit Harry Poter",
+      "date": "2024-09-24",
+      "resolution": "32x32",
+      "description": "I'm not super happy with this, but I think it's important to show work you're not always the most proud of.",
+      "image": "images/gallery/2024-09-24-electricity.png"
+    },
+    {
+      "id": "2024-09-29-pilot",
+      "title": "2-bit Ameleia Earhart",
+      "date": "2024-09-29",
+      "resolution": "32x32",
+      "description": "I'm SO HAPPY with how this turned out. I wanted to try to stylize a reference and think I did a really good job!",
+      "image": "images/gallery/2024-09-29-pilot.png"
+    },
+    {
+      "id": "2024-11-03-boulder",
+      "title": "Boulder (From Avatar: The Last Airbender)",
+      "date": "2024-11-03",
+      "resolution": "32x32",
+      "description": "One of my favorite side characters from Avatar!",
+      "image": "images/gallery/2024-11-03-boulder.png"
+    },
+    {
+      "id": "2024-10-24-skeleton",
+      "title": "Doot Doot",
+      "date": "2024-10-24",
+      "resolution": "32x32",
+      "description": "I think the #PixelDailies challenge was Skeleton, so I had to pay tribute to a classic meme.",
+      "image": "images/gallery/2024-10-24-skeleton.png"
+    },
+    {
+      "id": "2024-11-08-minijam171",
+      "title": "Game Jam mock-up",
+      "date": "2024-11-08",
+      "resolution": "336x176",
+      "description": "I can't quite remember the context of this, other than that it was a submission for a game jam (Mini-Jam 171). I think I used the PICO-8 palette, but I can't remember if I submitted this as a mock-up or as part of a team.",
+      "image": "images/gallery/2024-11-08-minijam171.png"
+    },
+    {
+      "id": "2024-10-28-carnivorousplant",
+      "title": "Piranha Plant",
+      "date": "2024-10-28",
+      "resolution": "32x32",
+      "description": "When I made this Piranha Plant, I was just starting to understand hue shifting and wasn't sure about how this looked. Now (in March of 2026) I am looking back on this and I'm so impressed!",
+      "image": "images/gallery/2024-10-28-carnivorousplant.png"
+    },
+    {
+      "id": "2024-11-15-coffe",
+      "title": "Coffee",
+      "date": "2024-11-15",
+      "resolution": "64x64",
+      "description": "After sticking with 32x32 for a few months, I wanted to move onto a bigger resolution, so for this #PixelDailies theme I tried my hand at a 64x64 coffee cup.",
+      "image": "images/gallery/2024-11-15-coffe.png"
+    },
+    {
+      "id": "2024-10-31-trick",
+      "title": "Bunny in a hat",
+      "date": "2024-10-31",
+      "resolution": "32x32",
+      "description": "This was a halloween #PixelDailies challenge (the theme was trick), and I wasn't sure what to do, so I settled on the classic magician trick.",
+      "image": "images/gallery/2024-10-31-trick.png"
+    },
+    {
+      "id": "2024-11-17-castles",
+      "title": "1-bit Vampire Castles",
+      "date": "2024-11-17",
+      "resolution": "110x110",
+      "description": "I think I was rewatching Castlevania (on Netflix) around this time and was obsessed with how Dracula's castle looked, so I wanted to do some castle studies with a \"dracula\"-esque 1-bit palette.",
+      "image": "images/gallery/2024-11-17-castles.png"
+    },
+    {
+      "id": "2024-11-27-dandelion",
+      "title": "Dandelion Kirby",
+      "date": "2024-11-27",
+      "resolution": "76x76",
+      "description": "What would Kirby look like if he had dandelion powers?",
+      "image": "images/gallery/2024-11-27-dandelion.png"
+    },
+    {
+      "id": "2024-12-02-pizza",
+      "title": "Cheesy Slice",
+      "date": "2024-12-02",
+      "resolution": "100x100",
+      "description": "I can't remember if this was a #PixelDailies challenge or if I just really wanted pizza at the time.",
+      "image": "images/gallery/2024-12-02-pizza.png"
+    },
+    {
+      "id": "2024-12-04-balsomroot",
+      "title": "Balsom Root Flower",
+      "date": "2024-12-04",
+      "resolution": "64x64",
+      "description": "I wanted to make a series of pixel art flowers for my girlfriend, but I think I made just this one and left the project incomplete 😢",
+      "image": "images/gallery/2024-12-04-balsomroot.png"
     }
   ]
 }
